@@ -1,0 +1,16 @@
+Customer_ID,Customer_Name,Email,Age,City,Signup_Date,Purchase_Amount
+1001,  riya sharma ,RIYA.SHARMA@EMAIL.COM ,24.0, new delhi ,2026-01-05,1299.5
+1002,AMAN VERMA,aman.verma@email.com,29.0,MUMBAI,05/01/2026,2499.0
+1003,neha singh,neha.singh@email.com,,Lucknow,2026/01/07,899.0
+1004,  rahul kumar,RAHUL.KUMAR@EMAIL.COM,31.0,kanpur ,08-01-2026,1599.0
+1005,PRIYA GUPTA ,priya.gupta@email.com,27.0,,2026-01-09,2199.0
+1006,Arjun Mehta, arjun.mehta@email.com ,35.0,Jaipur,10/01/2026,999.0
+1007,sana khan,,22.0,Bhopal,2026-01-11,749.0
+1008,VIKAS YADAV,vikas.yadav@email.com,41.0,Patna,12/01/2026,3299.0
+1009,Meera Joshi,meera.joshi@email.com,26.0, indore,2026-01-13,
+1010,Karan Malhotra,KARAN.MALHOTRA@EMAIL.COM,33.0,Chandigarh,14-01-2026,1899.0
+1001,  riya sharma ,RIYA.SHARMA@EMAIL.COM ,24.0, new delhi ,2026-01-05,1299.5
+1012,  ankit  ,ANKIT.PATEL@EMAIL.COM,28.0,AHMEDABAD,15/01/2026,1199.0
+1013,Simran Kaur,simran.kaur@email.com,,Amritsar,2026-01-16,2799.0
+1014,Mohit Jain,mohit.jain@email.com,30.0,  surat ,17/01/2026,0.0
+1015,Pooja Das,pooja.das@email.com,25.0,Kolkata,not-a-date,1599.0
