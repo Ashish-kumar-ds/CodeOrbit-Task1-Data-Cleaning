@@ -1,0 +1,13 @@
+First 10 cleaned records:
+
+ Customer_ID  Customer_Name                    Email  Age       City Signup_Date  Purchase_Amount
+        1001    Riya Sharma    riya.sharma@email.com   24  New Delhi  2026-01-05           1299.5
+        1002     Aman Verma     aman.verma@email.com   29     Mumbai  2026-01-05           2499.0
+        1003     Neha Singh    neha.singh@email.com   28    Lucknow  2026-01-07            899.0
+        1004    Rahul Kumar    rahul.kumar@email.com   31     Kanpur  2026-01-08           1599.0
+        1005    Priya Gupta    priya.gupta@email.com   27    Unknown  2026-01-09           2199.0
+        1006    Arjun Mehta    arjun.mehta@email.com   35     Jaipur  2026-01-10            999.0
+        1007      Sana Khan             Not Provided   22     Bhopal  2026-01-11            749.0
+        1008    Vikas Yadav    vikas.yadav@email.com   41      Patna  2026-01-12           3299.0
+        1009    Meera Joshi    meera.joshi@email.com   26     Indore  2026-01-13           1599.0
+        1010 Karan Malhotra karan.malhotra@email.com   33 Chandigarh  2026-01-14           1899.0
