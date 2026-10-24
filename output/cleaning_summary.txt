@@ -1,0 +1,17 @@
+DATA CLEANING SUMMARY
+=====================
+Original rows: 15
+Exact duplicate rows removed: 1
+Final rows: 14
+Final columns: 7
+Missing Age filled: 2
+Missing City filled: 1
+Missing Email filled: 1
+Missing Purchase_Amount filled: 1
+Invalid dates replaced with Unknown: 1
+Remaining missing cells: 0
+
+Rules: text standardized; median imputation used for Age and Purchase_Amount;
+City -> Unknown; Email -> Not Provided; invalid dates -> Unknown.
+Zero purchase amount retained as potentially valid.
+Synthetic practice dataset. Confirm rules with the data owner for real data.
