@@ -1,0 +1,9 @@
+Step,Issue,Action,Affected
+1,Duplicate rows,Remove exact duplicates,1
+2,Text formatting,"Trim spaces, title-case names/cities, lowercase emails",14
+3,Missing Age,Fill with median 28.5,2
+4,Missing City,Fill with Unknown,1
+5,Missing Email,Fill with Not Provided,1
+6,Missing Purchase_Amount,Fill with median 1599.00,1
+7,Mixed/invalid dates,Standardize YYYY-MM-DD; invalid -> Unknown,1
+8,Validation,Count remaining missing cells,0
